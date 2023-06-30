@@ -22,9 +22,11 @@
 <div align='center'>
 
 </div>
-<div align='center'></p>
+<div align='center'>
+  ![ImSinYeong's github stats](https://github-readme-stats.vercel.app/api?username=ImSinYeong&show_icons=true)
+</div>
 
-![ImSinYeong's github stats](https://github-readme-stats.vercel.app/api?username=ImSinYeong&show_icons=true align='center')
+
 
 
 <!---
