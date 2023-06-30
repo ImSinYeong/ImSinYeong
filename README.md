@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&animation=fadeIn&section=header&text=Hello😎&fontAlign=50&extBg=282829&fontColor=444444) 
 
 <div align="center">
-  <h3>👀</h3>
+  <h3>😀</h3>
   <p>다양한 경험을 추구하며 성장하는 <b color="cccccc">웹퍼블리셔 임신영</b>입니다</p>
 </div>
 
