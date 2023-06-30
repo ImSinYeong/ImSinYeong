@@ -4,7 +4,6 @@
   <h3>😀</h3>
   <p>다양한 경험을 추구하며 성장하는 <b color="cccccc">웹퍼블리셔 임신영</b>입니다</p>
 </div>
-
 <br/>
 <br/>
 <h3 align="center">🌟 Tech Stack 🌟</h3>
@@ -18,9 +17,4 @@
   </p>
 </div>
 <br/>
-<br/>
-
-<div align='center'>
-<a href="https://github.com/ImSinYeong"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImSinYeong&layout=compact" /></a> 
-</div>
 
