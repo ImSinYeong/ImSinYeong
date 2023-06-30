@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&animation=fadeIn&section=header&text=Hello😎&fontAlign=50&extBg=282829&customColorList=0,2,2,5,30&fontColor=444444) 
 
 
-    <p align='center'>STACK</p>
+<h3 align="center">📚 Tech Stack 📚</h3>
   <div align='center'>
     <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/scss-CC6699?style=for-the-badge&logo=sass&logoColor=white"> <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> 
   </div>
