@@ -23,7 +23,7 @@
 
 </div>
 
-  ![ImSinYeong's github stats](https://github-readme-stats.vercel.app/api?username=ImSinYeong&show_icons=true)
+  ![ImSinYeong's github stats](https://github-readme-stats.vercel.app/api?username=ImSinYeong&show_icons=true&align=center)
 
 
 
