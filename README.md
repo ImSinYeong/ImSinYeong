@@ -1,6 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&animation=fadeIn&section=header&text=Hello😎&fontAlign=50&extBg=282829&customColorList=0,2,2,5,30&fontColor=444444) 
 
-
+<h3>안녕하세요~</h3>
+<p>나는야 임신영</p>
+<br/>
+<br/>
 <h3 align="center">📚 Tech Stack 📚</h3>
 <br/>
 <div align='center'>
@@ -11,7 +14,8 @@
       <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
   </p>
 </div>
-
+<br/>
+<br/>
 <div align='center'>
 
 </div>
