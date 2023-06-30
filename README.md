@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&animation=fadeIn&section=header&text=Hello😎&fontAlign=50&extBg=282829&customColorList=0,2,2,5,30&fontColor=444444) 
 
 <div align="center">
-  <h3>안녕하세요~👀</h3>
-  <p>나는야 임신영</p>
+  <h3>👀</h3>
+  <p>다양한 경험을 추구하며 성장하는 웹퍼블리셔 임신영입니다</p>
 </div>
 
 <br/>
