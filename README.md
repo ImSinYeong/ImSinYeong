@@ -6,13 +6,13 @@
   <div align=center> </div>
   <div align=center>
      <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImSinYeong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
   </div>
   <p align=center></p>
 
 
 
-
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImSinYeong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
