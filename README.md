@@ -22,9 +22,8 @@
 <div align='center'>
 
 </div>
-<p align='center'>
+
   ![ImSinYeong's github stats](https://github-readme-stats.vercel.app/api?username=ImSinYeong&show_icons=true)
-</p>
 
 
 
