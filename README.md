@@ -19,8 +19,8 @@
 </div>
 <br/>
 <br/>
-<a href="https://github.com/ImSinYeong" align='center'><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImSinYeong&layout=compact" /></a> 
-<div align='center'>
 
+<div align='center'>
+<a href="https://github.com/ImSinYeong"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImSinYeong&layout=compact" /></a> 
 </div>
 
