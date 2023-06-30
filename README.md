@@ -19,6 +19,7 @@
 </div>
 <br/>
 <br/>
+<a href="https://github.com/ImSinYeong"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImSinYeong&layout=compact&theme=nord&hide_border=true" /></a> 
 <div align='center'>
 
 </div>
